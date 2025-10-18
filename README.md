@@ -70,9 +70,9 @@ git clone https://github.com/chandan11248/deep-learning.git
 ---
 
 ## 📚 Resources
-	•	Deep Learning Specialization by Andrew Ng: Coursera Link
-	•	Fast.ai Deep Learning Course: Fast.ai Link
-	•	PyTorch Documentation: PyTorch Docs
+	•	datacamp
+	•	documentation
+	•	youtube
 
 
 Feel free to explore the concepts, contribute, or reach out if you have any questions or suggestions!
