@@ -2,16 +2,18 @@ Deep Learning Projects
 
 Welcome to my collection of deep learning projects! This repository showcases various neural network architectures and their applications in different domains.
 
+# Deep Learning Projects 🚀
 
+## Repository Structure 📂
+- ANN/: Artificial Neural Networks
+- CNN/: Convolutional Neural Networks
+- RNN/: Recurrent Neural Networks
 
-📂 Repository Structure
-
-The repository is organized into the following directories:
-	•	ANN/: Implementations of Artificial Neural Networks.
-	•	CNN/: Convolutional Neural Networks for image-related tasks.
-	•	RNN/: Recurrent Neural Networks for sequence data.
-	•	multipleoutputproject/: Projects involving multiple output layers.
-	•	*.ipynb files: Jupyter Notebooks demonstrating various models and experiments.
+## Getting Started
+1. Clone the repo:
+```bash
+git clone https://github.com/username/repo.git
+cd repo
 
 
 
