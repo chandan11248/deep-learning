@@ -50,11 +50,9 @@ The repository is organized into the following directories:
 To run the projects locally:
 
 1. **Clone the repository:**
-```bash
+
 git clone https://github.com/chandan11248/deep-learning.git
 cd deep-learning
-
-
     
 2. **Install dependencies::**
         pip install -r requirements.txt
