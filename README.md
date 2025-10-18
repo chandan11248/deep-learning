@@ -37,7 +37,7 @@ The repository is organized into the following directories:
 ### 3. 🔁 Recurrent Neural Networks (RNN)
 - RNNs and variants (SimpleRNN, GRU, LSTM) for sequence prediction.  
 - Applications: Time series forecasting, NLP, sentiment analysis.  
-![RNN Example](https://via.placeholder.com/400x200.png?text=RNN+Example)
+
 
 ### 4. 📊 Multi-Output Models
 - Models predicting more than one target simultaneously.  
@@ -52,10 +52,10 @@ To run the projects locally:
 1. **Clone the repository:**
 
 git clone https://github.com/chandan11248/deep-learning.git
-cd deep-learning
+    -cd deep-learning
     
 2. **Install dependencies::**
-        pip install -r requirements.txt
+       - pip install -r requirements.txt
     
 3. **Navigate to the desired project directory and run the corresponding :
         Jupyter Notebook:**
