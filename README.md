@@ -2,7 +2,7 @@ Deep Learning Projects
 
 Welcome to my collection of deep learning projects! This repository showcases various neural network architectures and their applications in different domains.
 
-⸻
+
 
 📂 Repository Structure
 
@@ -13,7 +13,7 @@ The repository is organized into the following directories:
 	•	multipleoutputproject/: Projects involving multiple output layers.
 	•	*.ipynb files: Jupyter Notebooks demonstrating various models and experiments.
 
-⸻
+
 
 🧠 Project Highlights
 
@@ -33,7 +33,7 @@ Understand RNNs used for time series forecasting, natural language processing, a
 
 Projects demonstrating models with multiple output layers for complex tasks.
 
-⸻
+
 
 🚀 Getting Started
 
@@ -43,10 +43,11 @@ To run the projects locally:
      cd deep-learning
     
     2.	Install dependencies:
-    pip install -r requirements.txt
+        pip install -r requirements.txt
     
-    3.	Navigate to the desired project directory and run the corresponding Jupyter    Notebook:
-        jupyter notebook project.ipynb
+    3.	Navigate to the desired project directory and run the corresponding 
+        Jupyter Notebook:
+            jupyter notebook project.ipynb
 
 
 
