@@ -1,0 +1,22 @@
+# Core packages
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Deep learning frameworks
+tensorflow==2.13.0
+keras==2.13.1
+
+# Image processing
+opencv-python
+Pillow
+
+# Notebook support
+jupyter
+notebook
+
+# Optional utilities
+h5py
+tqdm
