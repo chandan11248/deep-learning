@@ -1,4 +1,4 @@
-# 🚀 Deep Learning Projects
+# 🚀 Deep Learning Projects and Concepts
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/chandan11248/deep-learning)
 ![GitHub stars](https://img.shields.io/github/stars/chandan11248/deep-learning?style=social)
