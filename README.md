@@ -58,10 +58,10 @@ git clone https://github.com/chandan11248/deep-learning.git
     
 2. **Install dependencies:**
 
-    •	pip install -r requirements.txt
+        •	pip install -r requirements.txt
 
     
-3. **Navigate to the desired project directory and run the corresponding :Jupyter Notebook:**
+3. **Navigate to the desired project directory and run the corresponding Jupyter Notebook:**
 
             jupyter notebook project.ipynb
 
