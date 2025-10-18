@@ -65,7 +65,9 @@ cd deep-learning
 
 
 
-📚 Resources
+---
+
+## 📚 Resources
 	•	Deep Learning Specialization by Andrew Ng: Coursera Link
 	•	Fast.ai Deep Learning Course: Fast.ai Link
 	•	PyTorch Documentation: PyTorch Docs
