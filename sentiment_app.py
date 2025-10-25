@@ -42,9 +42,9 @@ def predict_sentiment(text):
     prediction = model.predict(padded, verbose=0)[0][0]
     # FLIP the logic
     if prediction > 0.5:
-        return f"😞 Negative Sentiment ({prediction:.2f})"
-    else:
         return f"😊 Positive Sentiment ({prediction:.2f})"
+    else:
+        return f"😞 Negative Sentiment ({prediction:.2f})"
 
 # ---------------------------
 # 4️⃣ Streamlit Input
