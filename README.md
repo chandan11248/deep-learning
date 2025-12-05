@@ -43,6 +43,51 @@ The repository is organized into the following directories:
 - Models predicting more than one target simultaneously.  
 - Example: Age & gender prediction from images.  
 
+
+
+## ⚡ Transformers & Attention (NEW)
+
+Transformers revolutionized NLP and now dominate many AI tasks.  
+They replace RNNs by using **self-attention**, allowing models to learn relationships between tokens in parallel.
+
+### 🔑 Key Concepts
+- **Self-Attention**: Each token attends to all others  
+- **Multi-Head Attention**: Multiple attention heads capture richer features  
+- **Positional Encoding**: Adds sequence order information  
+- **Encoder / Decoder Architecture**:  
+  - Encoder → representation tasks  
+  - Decoder → autoregressive generation  
+
+Transformers handle long-range dependencies extremely well and enable massive parallelism.  
+They are used in NLP, vision (ViT), speech, and multimodal models.
+
+---
+
+## 🤖 GPT (Generative Pretrained Transformer)
+
+GPT is a **decoder-only** transformer trained via **next-token prediction**.
+
+### Features
+- Autoregressive (left-to-right generation)  
+- Causal masking  
+- Excellent at text generation, conversation, reasoning, summarization  
+- Scales extremely well with large datasets and model sizes  
+
+
+
+---
+
+## 🧠 BERT (Bidirectional Encoder Representations from Transformers)
+
+BERT is an **encoder-only** transformer trained using **masked language modeling (MLM)**.
+
+### Features
+- Deep bidirectional understanding  
+- Great for classification, QA, NER, embeddings  
+- Learns context from both left & right of a token  
+- Often fine-tuned for downstream tasks  
+
+
 ---
 
 ## 🚀 Getting Started
