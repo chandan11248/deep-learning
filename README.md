@@ -16,9 +16,8 @@ The repository is organized into the following directories:
 
 - **ANN/** : Implementations of Artificial Neural Networks.  
 - **CNN/** : Convolutional Neural Networks for image-related tasks.  
-- **RNN/** : Recurrent Neural Networks for sequence data.  
-- **multipleoutputproject/** : Projects involving multiple output layers.  
-- **\*.ipynb files** : Jupyter Notebooks demonstrating various models and experiments.
+- **RNN/** : Recurrent Neural Networks for sequence data.    
+- **\*.ipynb files** : Jupyter Notebooks demonstrating various models and experiments and projects
 
 ---
 
